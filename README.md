@@ -8,5 +8,5 @@ Additional idea [intGamesAi]: Replace the sequence by a binary sequence as follo
 
 ## Prime Numbers:
 Started: 04.11.24 <br />
-Completed: <br />
+Completed: 04.11.24<br />
 Project Description: Generate all primes less than a given integer (n) using the sieve of Erathosthenes. <br />
