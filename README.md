@@ -1,6 +1,6 @@
 # projects
 
-##Integer Games:
+## Integer Games:
 Started: 04.11.24
 Completed: 04.11.24
 Project Description: Write a function [intGames] that takes a positive integer n
