@@ -1,7 +1,7 @@
 # projects
 
 ## Integer Games:
-Started: 04.11.24
+Started: 04.11.24 '\n'
 Completed: 04.11.24
 Project Description: Write a function [intGames] that takes a positive integer n
  and outputs the Collatz sequence starting with n and ending with 1
